@@ -34,3 +34,29 @@ text-align: left;
 .slm{
     margin-left: 138px;
 }
+@media (max-width: 834px) {
+
+    .one{
+        height: 53.86250305175781px;
+        width: 386.30419921875px;
+        margin-left: 70.0791015625px;
+        margin-top: 1463.5458984375px;
+        border-radius: nullpx;
+    }
+
+.slm{
+        height: 216.60833740234375px;
+width: 383.4083557128906px;
+margin-left: 79.9248046875px;
+margin-top: ;top: 1529.5709228515625px;
+border-radius: nullpx;}
+
+.third{
+font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;}
+
+}
