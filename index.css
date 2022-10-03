@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&family=Roboto:wght@100&display=swap');
+
+.header {
+    position: absolute;
+    width: 667px;
+    height: 93px;
+    left: 121px;
+    top: 2000px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+}
+.butun{
+    display: flex;
+}
+.bir{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 122px;
+top: 2182px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+
+color: #1E4681;
+}
+.iki{
+    position: absolute;
+width: 214px;
+height: 39px;
+left: 467px;
+top: 2182px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+
+color: #1E4681;
+}
+.uc{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 851px;
+top: 2182px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+
+color: #1E4681;
+}
+.birinci {
+    position: absolute;
+    width: 223px;
+    height: 39px;
+    margin-left: 115px;
+    margin-top: 2242px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+}
+.ikinci {
+    position: absolute;
+    width: 271px;
+    height: 109px;
+    margin-left: 460px;
+    margin-top: 2242px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+}
+.ucuncu {
+    position: absolute;
+    width: 245px;
+    height: 39px;
+    margin-left: 844px;
+    margin-top: 2242px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+}
