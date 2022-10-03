@@ -60,3 +60,28 @@ letter-spacing: 0em;
 text-align: left;}
 
 }
+@media (max-width: 375px) {
+    .one{
+        height: 43.335418701171875px;
+width: 310.8034973144531px;
+margin-left: 36px;
+margin-top: 1657px;
+border-radius: nullpx;
+    }
+    .slm{
+        height: 174px;
+width: 299px;
+margin-left: 44px;
+margin-top: 1710px;
+border-radius: nullpx;
+    }
+    .third{
+        font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+    }
+}
